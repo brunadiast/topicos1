@@ -1,0 +1,28 @@
+h1{text-align:center;
+	font-family:times;
+	font-size:20px;}
+
+p{text-align:justify;
+	font-family:times;
+	font-size:20px;}
+
+.link p{font-family:times;
+	font-size:15px;
+	color:black;
+	text-align:center;}
+
+img{height:200px; 
+    width:200px;
+	float:right;
+	margin-left:10px;}	  
+
+.link:active p{color:deeppink;
+ 	          font-size:20px;} 
+
+.link:hover p{color:pink;
+			font-size:20px;}   
+			 
+.link:visited p{color:purple;}
+
+	ul li{list-style-type:none;}		
+

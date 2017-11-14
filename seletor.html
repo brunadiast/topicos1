@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+div span p{background-color: black;
+color: deeppink;}
+div>p{background-color:black; color:yellowgreen;}
+div~p{background-color:black; color:white;}
+.um{ font-size: 50px ;}
+.center{text-align: center;}
+.big{font-size:25px}
+.jo{background-color:black; color:purple ; font-size:25px;}
+</style>
+</head>
+<body>
+<div>
+<p class="um center">parágrafo dentro div</p>
+<p class="big">parágrafo dentro div</p>
+<span><p class="big">parágrafo dentro span</p></span>
+<span><p class="big">parágrafo dentro span</p></span>
+<span><p class="big">parágrafo dentro span</p></span>
+</div>
+<p class="jo">prágrafo fora span</p>
+<p class="jo">prágrafo fora span</p>
+<p class="jo">prágrafo fora span</p>
+<p class="jo">prágrafo fora span</p>
+</body>
+</html>

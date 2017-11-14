@@ -1,0 +1,74 @@
+.tudo{width: 100%;
+		height: 1400px;
+		background-color: black;
+	}
+
+
+.cabecalho {height: 200px;
+            width: 95%;
+         background-color: purple;
+     	margin: 0 auto;
+     	position: relative;
+		top: 10px;
+     }  
+
+.menu-superior {width: 95%;
+                height: 50px;
+                background-color: red;
+                margin: 0 auto;}	
+
+.quad{height:150px; 
+		width:30%;
+		margin-left:5% ;
+		background-color: #ebc79e;
+		float: left;
+		margin-top: 24px;
+		}
+
+.quad2{height:150px; 
+		width:55%;
+		margin-left:5% ;
+		background-color: #f5f5f5;
+		float: left;
+		margin-top: 24px;
+		margin-right: 5%;}                	
+
+.conteudo{width: 95%;
+		height: 1000px;
+		background-color: aqua;
+		margin: 0 auto;}		
+
+.lateralesquerda{float: left;
+				width: 55%;
+				height:90%;
+				background-color: darkgreen;
+				margin-top: 5%;
+				margin-left: 5%;}
+
+.dentrolateral{float: left;
+				width: 90%;
+				height: 100px;
+				background-color: yellow;
+				margin-top: 3%;
+				margin-left: 5%;}
+
+.lateraldireita{width: 30%;
+				height:90%;
+				background-color: pink;
+				float: left;
+				margin-top: 5%;
+				margin-left: 5%;}
+			
+
+.rodape{background-color: green;
+		height: 9%;
+		width:95%;
+		margin: 0 auto;}				
+
+.dentrorodape{background-color: purple;
+			height: 70px;
+			width: 30%;
+			margin-top: 3%;
+			float: right;
+			margin-right: 3%;}
+			
